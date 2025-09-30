@@ -55,7 +55,7 @@ Para rodar este projeto localmente:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/jaquelinetrevizan/pokemon-app.git
+git clone https://github.com/jaquetrevizan/pokemon-app.git
 
 # Acesse o diretório
 cd pokemon-app
